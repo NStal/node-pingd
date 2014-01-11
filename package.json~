@@ -1,0 +1,22 @@
+{
+  "author": "NStal",
+  "name": "node-pingd",
+  "description": "An little script to dump package when you are pinged",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NStal/node-pingd.git"
+  },
+  "keywords": [
+    "ping",
+    "ICMP"
+  ],
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "raw-socket": "~1.2.2"
+  },
+  "directories": {},
+  "main": "./index.js"
+}
